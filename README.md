@@ -22,7 +22,7 @@
 
 
 ### ภาพบันทึกหน้าจอที่ 2: การแสดงผล – "ลอนดอน ท้องฟ้าแจ่มใส" (London - Clear Sky)
-*(แสดงอุณหภูมิ 9°C พื้นหลังสีฟ้าสว่าง)*
+*(แสดงอุณหภูมิ 10°C พื้นหลังสีฟ้าสว่าง)*
 <img width="2356" height="1970" alt="screencapture-localhost-5174-2026-03-18-14_46_16" src="https://github.com/user-attachments/assets/37eb0d10-722a-4938-820f-e5dbe04a08e8" />
 
 
