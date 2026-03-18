@@ -1,17 +1,42 @@
-# React + Vite
+# MeteoCast 🌤️
+> A beautiful, privacy-focused open-source weather application built with React and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features ✨
 
-Currently, two official plugins are available:
+*   **Real-time Data:** Fetches the latest hourly weather data from the open-source [Open-Meteo API](https://open-meteo.com/). No API keys required.
+*   **Dynamic Glassmorphism UI:** Clean, modern interface that dynamically changes background gradients based on the current weather conditions.
+*   **Defensive Programming:** Built to handle edge cases gracefully. The app won't crash if data is missing or incomplete.
+*   **Robust Error Handling:** Instantly provides feedback for spelling errors or network issues (e.g., searching for a non-existent city).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack 🛠️
 
-## React Compiler
+*   **Frontend Framework:** React (via Vite)
+*   **Styling:** Tailwind CSS v4
+*   **API Service:** Open-Meteo Geocoding & Forecast API
+*   **Icons/Typography:** Google Fonts (Inter) & native Emojis
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Getting Started 🚀
 
-## Expanding the ESLint configuration
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/weatherApp.git
+    cd weatherApp
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+4.  Open `http://localhost:5173` in your browser.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# weatherApp
+## Future Plans 🗺️
+
+*   [ ] 5-Day forecast breakdown
+*   [ ] Geolocation support (fetch weather for current location)
+*   [ ] Save favorite cities locally
+
+---
+*Powered by Bbest*
