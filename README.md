@@ -18,15 +18,18 @@
 
 ### ภาพบันทึกหน้าจอที่ 1: หน้าจอเริ่มต้นและการค้นหา (Welcome Screen)
 *(เป็นหน้าจอพร้อมแถบค้นหาที่รอให้ผู้ใช้พิมพ์ชื่อเมือง)*
-![Welcome Screen](/Users/bbestz/.gemini/antigravity/brain/60e4fb8a-b637-4282-ae08-20a8bc7a4539/welcome_screen_1773817019791.png)
+![Welcome Screen](<img width="2356" height="1970" alt="screencapture-localhost-5174-2026-03-18-14_45_32" src="https://github.com/user-attachments/assets/654cdbe1-d83d-4b39-bec0-bdb00d926af5" />
+)
 
 ### ภาพบันทึกหน้าจอที่ 2: การแสดงผล – "ลอนดอน ท้องฟ้าแจ่มใส" (London - Clear Sky)
 *(แสดงอุณหภูมิ 9°C พื้นหลังสีฟ้าสว่าง)*
-![London Weather](/Users/bbestz/.gemini/antigravity/brain/60e4fb8a-b637-4282-ae08-20a8bc7a4539/london_weather_1773817047804.png)
+![London Weather](<img width="2356" height="1970" alt="screencapture-localhost-5174-2026-03-18-14_46_16" src="https://github.com/user-attachments/assets/37eb0d10-722a-4938-820f-e5dbe04a08e8" />
+)
 
 ### ภาพบันทึกหน้าจอที่ 3: การแสดงผลสภาวะมีเมฆ – "กรุงเทพมหานคร" (Bangkok - Partly Cloudy)
 *(แสดงอุณหภูมิและพื้นหลังที่เปลี่ยนไปตามสภาพอากาศ)*
-![Bangkok Weather](/Users/bbestz/.gemini/antigravity/brain/60e4fb8a-b637-4282-ae08-20a8bc7a4539/bangkok_weather_1773818181474.png)
+![Bangkok Weather](<img width="2356" height="1970" alt="screencapture-localhost-5174-2026-03-18-14_45_55" src="https://github.com/user-attachments/assets/2c6d4c9e-9d78-4e7e-8ba4-f90270140f6e" />
+)
 
 ## การใช้งาน AI ในโปรเจกต์นี้ (How I Used AI)
 ผมใช้ AI เป็นผู้ช่วยสนับสนุนตลอดกระบวนการเขียนโค้ดและการวางโครงสร้างของโปรเจกต์ (Architecture)
